@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="20 6 92 108" width="460" height="540">
+  <title>Northfield Herbary – icoon</title>
+  <g fill="none" stroke="#B23A3A" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <!-- maansikkel: rust en slaap -->
+    <path d="M92 14 A15 15 0 1 0 106 34 A11.5 11.5 0 1 1 92 14 Z" fill="#B23A3A" stroke="none"/>
+    <!-- kruidentakje -->
+    <path d="M48 110 C49 88 49 62 46 30"/>
+    <path d="M48.5 94 C38 93 30 87 27 78 C37 77 45 83 48.5 94 Z"/>
+    <path d="M49 86 C59 83 66 76 68 67 C58 67 51 75 49 86 Z"/>
+    <path d="M48.5 72 C39 70 32 63 30 55 C39 55 46 62 48.5 72 Z"/>
+    <path d="M48.5 64 C57 60 62 53 63 45 C55 46 49 54 48.5 64 Z"/>
+    <path d="M47.5 50 C40 47 36 41 35 34 C42 35 47 42 47.5 50 Z"/>
+    <path d="M46 30 C43 25 43 19 46 13 C49 19 49 25 46 30 Z"/>
+    <!-- nerfjes -->
+    <path d="M48 93 L33 80 M49 85 L63 70 M48 71 L35 58 M48.5 63 L59 49 M47.5 49 L39 38" stroke-width="1.5"/>
+  </g>
+</svg>
